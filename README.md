@@ -2,7 +2,7 @@
 <div><video controls src="video/input.mp4" muted="false"></video></div>
 <table>
    <tr>
-    <td><img src="video/input.mp4" width=416 height=240></td>
+    <td><video controls src="video/input.mp4" width=416 height=240></td>
     <td><img src="video/output.mp4" width=416 height=240></td>
    </tr>
    <tr>
