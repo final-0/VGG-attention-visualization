@@ -1,5 +1,5 @@
 # VGG-attention-visualization
-
+<img src="video/input.mp4" width=416 height=240>
 <table>
    <tr>
     <td><img src="video/input.mp4" width=416 height=240></td>
