@@ -1,5 +1,5 @@
 # VGG-attention-visualization
-nn
+
 <table>
    <tr>
     <td><img src="video/input.gif" width=416 height=240></td>
